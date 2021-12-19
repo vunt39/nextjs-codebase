@@ -1,0 +1,41 @@
+a { cursor: pointer; }
+
+.app-container {
+    min-height: 350px;
+}
+
+.content-login{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.loginForm{
+    width: 100%;
+}
+.login-container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.image-login{
+    height: 100%;
+}
+.login-form-container{
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+}
+.button-group{
+    text-align: center;
+}
+.forgot-pass a{
+    float: right;
+}
+.check-group{
+    display: flex;
+}
+.button-login{
+    width: 100%;
+    height: 50px;
+}

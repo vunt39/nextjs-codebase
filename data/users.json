@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "vu",
+        "lastName": "nguyen",
+        "username": "vunt39",
+        "hash": "$2a$10$z.0IXOe7vc0vIMMWA83BM.lts3zPsZ/d3d3l1Q.DoAJH1yiISSa0y",
+        "id": 2,
+        "dateCreated": "2021-12-18T06:40:32.342Z",
+        "dateUpdated": "2021-12-18T06:40:32.342Z"
+    },
+    {
+        "firstName": "vu2",
+        "lastName": "nguyen",
+        "username": "vunt49",
+        "hash": "$2a$10$r3xbHMeWUcjZge6E8X2PDu8rlaX3Cdwy3mCpq5ip3QpZqqAFOGxDG",
+        "id": 3,
+        "dateCreated": "2021-12-18T07:02:28.223Z",
+        "dateUpdated": "2021-12-18T07:02:28.223Z"
+    },
+    {
+        "firstName": "vu2",
+        "lastName": "nguyen",
+        "username": "vunt40",
+        "hash": "$2a$10$Qu0CHVefqtNVRKmKOnJ8bu9sjCLAHOgM.Gy6YerS0wTN8Vw5GVbTu",
+        "id": 4,
+        "dateCreated": "2021-12-18T07:23:50.090Z",
+        "dateUpdated": "2021-12-18T07:23:50.090Z"
+    }
+]
